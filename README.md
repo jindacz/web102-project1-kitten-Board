@@ -1,8 +1,8 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Community Board
 
-Submitted by: **Your Name Here**
+Submitted by: jinda zhang
 
-This web app: **insert description**
+This web app: For this project, I create an events or resources board for my community! My board have a unique purpose, such as displaying a list of scheduled games for a sports team or links to help users learn more about software engineering. On each card of my community board, I display some information about the event or resource.
 
 Time spent: **X** hours spent in total
 
@@ -10,8 +10,8 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
@@ -41,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [jindacz]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
