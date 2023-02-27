@@ -15,12 +15,12 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
+- [x] Buttons or links to a related resources are on each card component
+- [x] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] Styling
 
 ## Video Walkthrough
 
