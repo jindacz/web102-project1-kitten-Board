@@ -4,6 +4,16 @@
 	padding: 10px;
   }
   
-  .name {
-	color: black;
+.name {
+color: black;
+}
+
+.button {
+	background-color: red;
+	color: white;
+	border: none;
+	padding: 10px;
+	border-radius: 5px;
+	cursor: pointer;
+	margin-top: 10px;
   }
