@@ -4,9 +4,10 @@ import './Post.css'
 const Post = (props) => {
   return (
     <div className="Post">
-     <p className="name">{props.name}</p>
-      <p>{props.comment}</p>
-      <p>❤️ {props.numLikes}</p>
+     <img src={props.image} alt={props.name} />
+     <h3 className="name">{props.name}</h3>
+      <p>{props.location}</p>
+      <button>View Menu</button>
     </div>
   )
 }
