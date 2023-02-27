@@ -11,17 +11,17 @@ const App = () => {
       <h1>Animal favoursites</h1>
       {/* <h3>Write a post about what you are excited to learn about!</h3> */}
       <div className="PostList">
-        <Post name="Birria-Landia" location="Mexican" img="./images/img01.jpg" link="https://www.example.com"/>
-        <Post name="Mysttik Masala" location="Indian" link="https://www.example.com"/>
-        <Post name="The Halal Guys" location="Middle Eastern" link="https://www.example.com"/>
-        <Post name="The Halal Guys" location="Middle Eastern" link="https://www.example.com"/>
-        <Post name="The Halal Guys" location="Middle Eastern" link="https://www.example.com"/>
-        <Post name="The Halal Guys" location="Middle Eastern" link="https://www.example.com"/>
-        <Post name="The Halal Guys" location="Middle Eastern" link="https://www.example.com"/>
-        <Post name="The Halal Guys" location="Middle Eastern" link="https://www.example.com"/>
-        <Post name="The Halal Guys" location="Middle Eastern" link="https://www.example.com"/>
-        <Post name="The Halal Guys" location="Middle Eastern" link="https://www.example.com"/>
-        <Post name="The Halal Guys" location="Middle Eastern" link="https://www.example.com"/>
+        <Post name="Birria-Landia" location="Mexican" img="./images/img01.jpg" link="https://placekitten.com/"/>
+        <Post name="Mysttik Masala" location="Indian" link="https://placekitten.com/"/>
+        <Post name="The Halal Guys" location="Middle Eastern" link="https://placekitten.com/"/>
+        <Post name="The Halal Guys" location="Middle Eastern" link="https://placekitten.com/"/>
+        <Post name="The Halal Guys" location="Middle Eastern" link="https://placekitten.com/"/>
+        <Post name="The Halal Guys" location="Middle Eastern" link="https://placekitten.com/"/>
+        <Post name="The Halal Guys" location="Middle Eastern" link="https://placekitten.com/"/>
+        <Post name="The Halal Guys" location="Middle Eastern" link="https://placekitten.com/"/>
+        <Post name="The Halal Guys" location="Middle Eastern" link="https://placekitten.com/"/>
+        <Post name="The Halal Guys" location="Middle Eastern" link="https://placekitten.com/"/>
+        <Post name="The Halal Guys" location="Middle Eastern" link="https://placekitten.com/"/>
       </div>
 
     </div>
