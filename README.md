@@ -4,7 +4,7 @@ Submitted by: jinda zhang
 
 This web app: For this project, I create an events or resources board for my community! My board have a unique purpose, such as displaying a list of scheduled games for a sports team or links to help users learn more about software engineering. On each card of my community board, I display some information about the event or resource.
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
