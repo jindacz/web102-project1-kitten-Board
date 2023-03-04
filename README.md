@@ -1,7 +1,7 @@
 # Web Development Project 1 - Community Board
 
-Submitted by: jinda zhang
-Deployed at: https://singular-crostata-4db11c.netlify.app/
+- Submitted by: jinda zhang
+- Deployed at: https://singular-crostata-4db11c.netlify.app/
 
 This web app: For this project, I create an events or resources board for my community! My board have a unique purpose, such as displaying a list of scheduled games for a sports team or links to help users learn more about software engineering. On each card of my community board, I display some information about the event or resource.
 
